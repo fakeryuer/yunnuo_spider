@@ -18,7 +18,7 @@ os.chdir(os.getcwd())
 # n=截图次数，interval=时间间隔 （秒）
 __n = 7
 __interval = 3
-__to_addr = ['2384810678@qq.com', ] # 'panhy@yunochina.net'
+__to_addr = ['xxxx@xxx.com', ] # 'xxx@xx.net'
 
 
 if __name__ == '__main__':
