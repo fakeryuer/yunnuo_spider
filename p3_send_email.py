@@ -21,11 +21,11 @@ import os
 
 
 # 用户信息
-from_addr = 'yuhy@yunochina.net'
-password = 'EPK4WfKQ2MYaJ8n7'    # 腾讯QQ邮箱或腾讯企业邮箱必须使用授权码进行第三方登陆
+from_addr = 'yuhy@xxx.net'
+password = 'xx'    # 腾讯QQ邮箱或腾讯企业邮箱必须使用授权码进行第三方登陆
 smtp_server = 'smtp.exmail.qq.com'
 # 收件人信息
-to_addr = ['2384810678@qq.com', 'panhy@yunochina.net']
+to_addr = ['xxx@qq.com', 'xxx@xxxx.net']
 # 发送主题
 
 #链接邮箱服务器
