@@ -75,7 +75,7 @@ class It_Manager(object):
 
     # 把图片传给超级鹰,返回验证字符
     def post_image_get_position(self, captcha):
-        cjy = Chaojiying_Client('fakeryu', 'chaojiying', '897644')
+        cjy = Chaojiying_Client('xxx', 'xxx', 'xxx')
         # 验证码Byte传入
         result_string = cjy.PostPic(captcha, 1902).get('pic_str')
         title = '{}.png'.format(result_string)
